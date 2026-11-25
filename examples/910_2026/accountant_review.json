@@ -1,0 +1,15 @@
+{
+  "status": "awaiting_human_review",
+  "formula": "Подтверждённый доход × подтверждённая региональная ставка; остаток = max(начислено − уплачено, 0)",
+  "source_document": "document.txt",
+  "period": "2026-H1",
+  "candidate_rule": "../../rules/astana_2026.json",
+  "expected_tax": null,
+  "expected_balance_payable": null,
+  "confirmed_income": null,
+  "confirmed_rate": null,
+  "payments_made": null,
+  "reviewed_by": null,
+  "reviewed_on": null,
+  "notes": null
+}

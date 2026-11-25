@@ -1,0 +1,21 @@
+Date: 18.11.2026
+Type: Expense
+Store: Google Workspace
+Description: Business software subscription
+Amount: 25000 KZT
+Payment: Corporate card
+Business purpose: Company email and collaboration
+
+Date: 19.11.2026
+Type: Income
+Counterparty: Client Alpha
+Description: Payment for consulting services
+Amount: 375000 KZT
+Currency: KZT
+
+Date: 20.11.2026
+Type: Expense
+Store: Unknown
+Description: Miscellaneous payment
+Amount: 9000 KZT
+Payment: Cash

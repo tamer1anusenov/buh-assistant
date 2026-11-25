@@ -1,0 +1,6 @@
+Store: Office Market
+Type: Expense
+Description: Office paper and stationery
+Amount: 18500 KZT
+Payment: Kaspi
+Business purpose: Office operations

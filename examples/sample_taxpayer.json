@@ -1,0 +1,9 @@
+{
+  "taxpayer_id": "demo",
+  "taxpayer_type": "IE",
+  "tax_regime": "demo",
+  "oked": "62010",
+  "vat_registered": false,
+  "reporting_period": "2026-11",
+  "country": "KZ"
+}

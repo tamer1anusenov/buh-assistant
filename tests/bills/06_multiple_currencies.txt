@@ -1,0 +1,15 @@
+Date: 14.11.2026
+Store: AWS
+Type: Expense
+Description: Cloud hosting
+Amount: 125.50 USD
+Payment: Corporate card
+Business purpose: Software infrastructure
+
+Date: 15.11.2026
+Store: Local Transport
+Type: Expense
+Description: Delivery service
+Amount: 32000 KZT
+Payment: Cash
+Business purpose: Delivery to customer

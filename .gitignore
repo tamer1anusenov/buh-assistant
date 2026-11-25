@@ -1,0 +1,62 @@
+# Credentials and local configuration
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+.aws/
+.codex/
+.agents/
+
+# Python environments and generated files
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+build/
+dist/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage*
+htmlcov/
+
+# Private inputs, databases, logs, and generated reports
+/data/
+/logs/
+/out/
+/uploads/
+/reports/
+*.db
+*.db-shm
+*.db-wal
+*.sqlite
+*.sqlite3
+pii_map.json
+/accounting.csv
+/test_accounting.csv
+/accounting_summary.csv
+/tax_summary.csv
+/tax_transactions.csv
+/review_required.csv
+/tax_calculation.json
+/execution_summary.json
+
+# Only synthetic contract fixtures belong in Git
+*.docx
+!tests/fixtures/docx/tourism.docx
+!tests/fixtures/docx/labor.docx
+!tests/fixtures/docx/lease.docx
+!tests/fixtures/docx/clean.docx
+
+# Editors
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+*~
+*.swp
+.~lock.*

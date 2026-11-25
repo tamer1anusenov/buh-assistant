@@ -1,0 +1,13 @@
+{
+  "taxpayer_type": "IE",
+  "regime": "simplified_declaration",
+  "region": "Астана",
+  "year": 2026,
+  "half": 1,
+  "eligibility_confirmed": false,
+  "eligibility_evidence": null,
+  "has_employees": false,
+  "income_recognition_confirmed": false,
+  "complete_income_confirmed": false,
+  "payments_made": null
+}

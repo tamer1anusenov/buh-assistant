@@ -1,0 +1,5 @@
+Date: 31.02.2026
+Type: Expense
+Description: Invalid date receipt
+Amount: not available
+Payment: Unknown

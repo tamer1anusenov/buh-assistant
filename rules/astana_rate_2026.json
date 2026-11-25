@@ -1,0 +1,27 @@
+{
+  "value": "0.03",
+  "unit": "fraction",
+  "article": "1",
+  "paragraph": null,
+  "act_id": "G25AAZ3494M",
+  "version": 1,
+  "status": "draft",
+  "effective_from": "2026-01-01",
+  "effective_to": "2026-12-31",
+  "reviewed_by": null,
+  "checked_on": null,
+  "source": {
+    "act_id": "G25AAZ3494M",
+    "article": "1-2",
+    "url": "https://old.adilet.zan.kz/rus/docs/G25AAZ3494M",
+    "accessed_at": "2026-11-24T13:11:03.807828+00:00",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "status": "draft",
+    "reviewed_by": null,
+    "checked_on": null,
+    "snapshot": "G25AAZ3494M_1-2.txt",
+    "sha256": "c07c7d09110edce12de32cea08675160bd6f23bf119dc5de04f90d7e54a955e8",
+    "response_sha256": "79de48dcbff0c4a7f56159eea16a5043415bfc836496e652a8be60807a723b5c"
+  }
+}

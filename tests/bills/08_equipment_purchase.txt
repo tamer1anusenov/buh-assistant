@@ -1,0 +1,8 @@
+Date: 17.11.2026
+Store: Sulpak
+Type: Expense
+Description: Office computer equipment
+Amount: 780000 KZT
+Payment: Bank transfer
+Business purpose: Computer equipment for employee workstation
+VAT amount: 83571.43 KZT

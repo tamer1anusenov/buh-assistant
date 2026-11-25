@@ -1,0 +1,8 @@
+Date: 10.11.2026
+Store: Technodom
+Type: Expense
+Description: Laptop purchase
+Amount: 450000 KZT
+Payment: Kaspi
+Business purpose: Development equipment for the company
+VAT amount: 48214.29 KZT

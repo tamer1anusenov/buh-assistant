@@ -1,0 +1,15 @@
+Date: 13.11.2026
+Store: Magnum
+Type: Expense
+Description: Business lunch supplies
+Amount: 12750 KZT
+Payment: Kaspi
+Business purpose: Office hospitality
+
+Date: 13.11.2026
+Store: Magnum
+Type: Expense
+Description: Business lunch supplies
+Amount: 12750 KZT
+Payment: Kaspi
+Business purpose: Office hospitality

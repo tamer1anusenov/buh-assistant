@@ -1,0 +1,17 @@
+{
+  "rule_id": "astana-simplified-2026",
+  "version": 1,
+  "regime": "simplified_declaration",
+  "tax": "individual_income_tax",
+  "region": "Астана",
+  "rate": "0.03",
+  "effective_from": "2026-01-01",
+  "effective_to": "2026-12-31",
+  "adilet_url": "https://old.adilet.zan.kz/rus/docs/G25AAZ3494M",
+  "article": "1",
+  "source_sha256": "c07c7d09110edce12de32cea08675160bd6f23bf119dc5de04f90d7e54a955e8",
+  "checked_on": null,
+  "reviewed_by": null,
+  "status": "draft",
+  "rounding_places": null
+}

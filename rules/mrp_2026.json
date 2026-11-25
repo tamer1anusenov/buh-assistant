@@ -1,0 +1,27 @@
+{
+  "value": "4325",
+  "unit": "KZT",
+  "article": "7",
+  "paragraph": "4",
+  "act_id": "Z2500000239",
+  "version": 1,
+  "status": "draft",
+  "effective_from": "2026-01-01",
+  "effective_to": "2026-12-31",
+  "reviewed_by": null,
+  "checked_on": null,
+  "source": {
+    "act_id": "Z2500000239",
+    "article": "7",
+    "url": "https://old.adilet.zan.kz/rus/docs/Z2500000239",
+    "accessed_at": "2026-11-24T13:11:03.807828+00:00",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "status": "draft",
+    "reviewed_by": null,
+    "checked_on": null,
+    "snapshot": "Z2500000239_7.txt",
+    "sha256": "d6e1538f6078d03aa90925d2606964ac49cf159baa995a29b192886d9a708853",
+    "response_sha256": "f1f52f6fa5182b5100f8cef54421986aa2250e5f0b6b82221c7c7b20dbcab8f2"
+  }
+}

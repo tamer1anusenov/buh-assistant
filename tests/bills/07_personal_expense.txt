@@ -1,0 +1,6 @@
+Date: 16.11.2026
+Store: Restaurant
+Type: Expense
+Description: Personal dinner
+Amount: 28000 KZT
+Payment: Card

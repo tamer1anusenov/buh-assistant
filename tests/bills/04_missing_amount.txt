@@ -1,0 +1,6 @@
+Date: 12.11.2026
+Store: City Taxi
+Type: Expense
+Description: Taxi to client meeting
+Payment: Card
+Business purpose: Client meeting
